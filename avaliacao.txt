@@ -1,0 +1,35 @@
+Bom dia galera. Estava sem PC nesses dias e acabei ficando off do discord. Percebi que existiram algumas dúvidas e, além disso, alguns problemas detectados. Vou deixar aqui registrado algumas informações importantes para que não existam problemas ok ?
+
+1- Há uma questão do modulo de python que está com duas respostas iguais. Irei ajustar isso. Em relação a pontuação, eu não irei considerar para, o módulo de python como fator de peso para nota, devido a este problema.
+
+2- relembrando como será o processo de avaliação de vocês:
+
+   a- Vocês devem criar um repositório individual no github e compartilhar o acesso deste repositório comigo. 
+   b- irei avaliar a organização do repositório e espero pode clonar e com base no readme do repositório e  rodar os códigos  que vocês implementaram do trailhead. Em qualquer plataforma..IDE ou colab, jupyter etc. Meu usuário do github : alysonbnr 
+   c - Durante as aulas remotas, irão haver atividades de classe que vcs devem incluir neste mesmo repositório em uma pasta separada para atividades de classes. Sugiro que no repositório existam duas pastas: trailhead e atividades_classe.
+   d - Irei criar um conjunto de squads e cada squad deve possuir um repositório no github, do squad,  além do individual de cada um de vocês
+   e - Vai haver, neste contexto, uma avaliação também do projeto do squad. 
+3 - resumo da pontuação:
+    Etapa 1 mês de maio- 
+         2 pontos - atividades do trailhead -individual;
+         2 pontos - atividades de sala - individual;
+         6 pontos  - projeto do squad.
+
+   Etapa 2 mês de junho-
+         2 pontos - atividades do trailhead- individual;
+         2 pontos - atividades de sala- individual;
+         6 pontos  - projeto do squad.
+
+   Etapa 3 mês de julho-
+         2 pontos - atividades do trailhead- individual;
+         2 pontos - atividades de sala- individual;
+         3 pontos  - projeto do squad.
+         3 pontos  - demo day.
+
+nota final : media aritmética das nota 1, nota 2 e nota 3.
+
+4- Estarei diponibilizando hoje um forms do google para que eu possa montar um perfil e criar os squads nestes perfis. Não deixem de responder
+
+5 - Se estiverem com dúvidas podem me acionar pelo discord que eu irei auxiliar assim que possível. Principalmente se estiverem com problemas no trailhead. Lembrando 
+que é ultra necessário a implementação das atividades do trailhead antes do nosso próximo encontro, dia trinta de abril. 
+Se existir qualquer duvida, não deixem de falar comigo. Estou a disposição. Abraço em todos!
